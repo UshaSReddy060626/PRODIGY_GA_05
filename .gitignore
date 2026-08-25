@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated outputs (keep the folder, ignore generated images)
+outputs/*
+!outputs/.gitkeep
+
+# Large model caches
+*.h5
+*.pb
+tfhub_modules/
