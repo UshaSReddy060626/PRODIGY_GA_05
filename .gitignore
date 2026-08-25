@@ -13,9 +13,6 @@ env/
 .DS_Store
 Thumbs.db
 
-# Generated outputs (keep the folder, ignore generated images)
-outputs/*
-!outputs/.gitkeep
 
 # Large model caches
 *.h5
