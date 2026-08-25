@@ -521,6 +521,6 @@ Together, they provide both a practical implementation and a deeper understandin
 
 ## 👩‍💻 Author
 
-**<Usha.S.Reddy>**
+**Usha.S.Reddy**
 
 If you found this project useful, consider giving the repository a ⭐.
